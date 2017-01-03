@@ -6,18 +6,10 @@ Adults with Learning Difficulties
 
 
 A Website Framework for Adults with Learning Disabilities to aid literacy and skills retention.
-
 Semester 1 Status Report
-
 Karen McCarthy
-
-
 20004879
-
-
 Supervisor: David Power
-
-
 BSc(Hons) in Information Technology
 
 
